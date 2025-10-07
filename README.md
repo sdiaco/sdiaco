@@ -3,8 +3,8 @@
 <h1 align="center">👋 Hi, I'm <a href="https://linkedin.com/in/simonediaco" target="_blank">Simone Diaco</a></h1>
 
 <p align="center">
-  <strong>Cloud Developer | Serverless & FinOps Engineer | AWS Certified</strong><br>
-  <em>Designing scalable, reliable, and cost-efficient systems on AWS</em>
+  <strong>Cloud Developer | AWS Certified</strong><br>
+  <em>Designing and developing scalable, reliable, and cost-efficient systems on AWS</em>
 </p>
 
 ---
