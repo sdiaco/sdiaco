@@ -46,10 +46,6 @@ Routing layer for event-based communication built in **TypeScript** with AWS-nat
 > *Focus:* Extensible design, fault tolerance, and maintainability.
 
 ---
- 
-> *Work in progress*
-
----
 
 ### 🧠 Principles I Work By
 
