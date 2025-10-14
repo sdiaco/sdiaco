@@ -46,10 +46,8 @@ Routing layer for event-based communication built in **TypeScript** with AWS-nat
 > *Focus:* Extensible design, fault tolerance, and maintainability.
 
 ---
-
-#### 💸 [aws-cost-optimizer-dashboard](https://github.com/sdiaco/aws-cost-optimizer-dashboard) *(Under active development)*
-Serverless dashboard for **cost visualization and waste detection** across AWS environments.  
-> *Focus:* FinOps automation, cost transparency, and data-driven optimization.
+ 
+> *Work in progress*
 
 ---
 
