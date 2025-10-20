@@ -22,10 +22,10 @@ I collaborate closely with architects and DevOps teams to ensure that every syst
 ### ☁️ Technical Expertise
 
 **Areas of Focus**  
-`Serverless Applications` · `Microservices Design` · `Cloud Governance` · `FinOps` · `Infrastructure as Code` · `Automation & Monitoring` · `Scalability Engineering`
+`Serverless Applications` · `Microservices Design` · `Cloud Governance` · `Infrastructure as Code` · `Automation & Monitoring` · `Scalability Engineering`
 
 **Languages & Frameworks**  
-`TypeScript` · `Node.js` · `PHP (Laravel)` · `Python` · `React`
+`TypeScript` · `Node.js` · `PHP` · `Python` · `React`
 
 **Tools & Platforms**  
 `AWS Cloud` · `Terraform` · `Serverless Framework` · `Docker` · `Git`
@@ -44,14 +44,6 @@ I collaborate closely with architects and DevOps teams to ensure that every syst
 #### 🧭 [eventbridge-router](https://github.com/sdiaco/eventbridge-router)
 Routing layer for event-based communication built in **TypeScript** with AWS-native patterns for resilience and scalability.  
 > *Focus:* Extensible design, fault tolerance, and maintainability.
-
----
-
-### 🧠 Principles I Work By
-
-- **Design for growth** — systems must evolve, not just scale.  
-- **Code with context** — understanding architecture makes development smarter.  
-- **Optimize cost and performance together** — efficiency is not a trade-off.  
 
 ---
 
