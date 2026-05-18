@@ -1,49 +1,50 @@
-<!-- Simone Diaco | GitHub Profile README -->
-
 <h1 align="center">👋 Hi, I'm <a href="https://linkedin.com/in/simonediaco" target="_blank">Simone Diaco</a></h1>
-
 <p align="center">
-  <strong>Cloud Developer | AWS Certified</strong><br>
-  <em>Designing and developing scalable, reliable, and cost-efficient systems on AWS</em>
+  <strong>Senior Full Stack Engineer | AWS Certified</strong><br>
+  <em>Building scalable, event-driven systems on AWS</em>
 </p>
 
 ---
 
 ### 🧭 About Me
 
-I'm a **Cloud Developer** with over **5 years of experience** designing, developing, and maintaining **serverless and distributed systems** on AWS.  
-My work bridges **software engineering and cloud architecture**, with a strong focus on **performance**, **automation**, and **cost optimization** across production-grade environments.
+Senior Full Stack Engineer with **5+ years of experience** building
+**serverless and event-driven systems on AWS**.
 
-At **Fastweb**, I contribute to the design and delivery of **modern cloud platforms** used daily by thousands of users — building high-availability services, automation pipelines, data integrations, and observability frameworks.  
-I collaborate closely with architects and DevOps teams to ensure that every system is **resilient, maintainable, and financially efficient**, combining hands-on development with governance best practices.
-
----
-
-### ☁️ Technical Expertise
-
-**Areas of Focus**  
-`Serverless Applications` · `Microservices Design` · `Cloud Governance` · `Infrastructure as Code` · `Automation & Monitoring` · `Scalability Engineering`
-
-**Languages & Frameworks**  
-`TypeScript` · `Node.js` · `PHP` · `Python` · `React`
-
-**Tools & Platforms**  
-`AWS Cloud` · `Terraform` · `Serverless Framework` · `Docker` · `Git`
+I focus on backend architecture, cloud-native development, and clean code —
+working across the full stack with a strong emphasis on reliability,
+scalability, and maintainability.
 
 ---
 
-### 🧩 AWS Certifications
+### ⚙️ Technical Stack
 
-- 🟢 **AWS Certified Developer – Associate**  
-- 🟡 **Currently pursuing:** AWS Solutions Architect – Associate
+**Backend**
+`Node.js` · `TypeScript` · `PHP` · `Python` · `Fastify`
+
+**AWS**
+`Lambda` · `EventBridge` · `DynamoDB` · `SQS` · `Step Functions` · `API Gateway` · `...`
+
+**Frontend**
+`React`
+
+**Infrastructure & Tooling**
+`Serverless Framework` · `Docker` · `CI/CD` · `Git`
 
 ---
 
-### 🚀 Projects
+### 🏆 Certifications
 
-#### 🧭 [eventbridge-router](https://github.com/sdiaco/eventbridge-router)
-Routing layer for event-based communication built in **TypeScript** with AWS-native patterns for resilience and scalability.  
-> *Focus:* Extensible design, fault tolerance, and maintainability.
+- ✅ **AWS Certified Developer – Associate**
+- 📚 **Currently pursuing:** AWS Solutions Architect – Professional
+
+---
+
+### 🚀 Public Projects
+
+#### [eventbridge-router](https://github.com/sdiaco/eventbridge-router)
+Event-driven message router built on **AWS EventBridge**.
+Content-based routing, DLQ support, event archive & replay, and observability metrics.
 
 ---
 
@@ -52,5 +53,4 @@ Routing layer for event-based communication built in **TypeScript** with AWS-nat
   <a href="https://linkedin.com/in/simonediaco"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://github.com/sdiaco"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
 </p>
-
 <p align="center"><strong>— Simone Diaco</strong></p>
