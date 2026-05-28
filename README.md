@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://linkedin.com/in/simonediaco" target="_blank">Simone Diaco</a></h1>
 <p align="center">
-  <strong>Senior Full Stack Engineer | AWS Certified</strong><br>
+  <strong>Senior Full Stack Developer | AWS Certified</strong><br>
   <em>Building scalable, event-driven systems on AWS</em>
 </p>
 
